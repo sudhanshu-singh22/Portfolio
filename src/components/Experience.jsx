@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import Reveal from './Reveal';
 import NPTEL from '../assets/NPTEL.png';
 import GFG from '../assets/GFG.png';
-import GOOGLE from '../assets/GOOGLE.png'
+import GOOGLE from '../assets/Google.png'
 import Udemy from '../assets/Udemy.png';
 import Coursera from '../assets/coursera.png'
 const DefaultImage = '../assets/default-image.png'; // Ensure default image path is correct

@@ -5,11 +5,13 @@ import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Portfolio from "./components/Portfolio";
 import Skills from "./components/Skills";
+import ChatBot from "./components/ChatBot";
 
 export default function App() {
   return (
     <>
       <Navbar/>
+      <ChatBot />
       <Hero/>
       <Skills/>
       <Portfolio/>

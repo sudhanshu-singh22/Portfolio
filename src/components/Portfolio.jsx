@@ -4,10 +4,20 @@ import project2 from "../assets/project2.png";
 import project4 from "../assets/project4.png";
 import project5 from "../assets/project5.png";
 import project6 from "../assets/project6.png";
+import chatty from "../assets/chatty.png"
 import { AiFillGithub, AiOutlineGithub } from 'react-icons/ai';
 import Reveal from './Reveal';
 
 const projects = [
+  {
+    img: chatty,
+    title: "Chatty (Chat App)",
+    description: "Developed a sleek and responsive e-commerce website with dynamic product listings, smooth navigation, and seamless user experience.",
+    links: {
+      site: "https://fullstack-chat-app-165y.onrender.com",
+      github: "https://github.com/sudhanshu-singh22/fullstack-chat-app",
+    },
+  },
   {
     img: project5,
     title: "Cara Ecommerce Site",

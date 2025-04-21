@@ -83,6 +83,7 @@ const Hero = () => {
               <motion.a whileHover={{ scale: 1.2 }} href="https://www.instagram.com/sudhanshu_raghuvanshi22/">
                 <AiOutlineInstagram />
               </motion.a>
+              <a href="https://drive.google.com/file/d/1zgyA98Ni_lMKOJsyXUlW3-MGvotsIRYb/view?usp=drive_link" >Video CV</a>
             </div>
           </motion.div>
         </motion.div>
